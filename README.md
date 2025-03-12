@@ -104,3 +104,5 @@ On client-1, as an Accountant employee when accessing the finance folder the use
 <p>
 On client-1, as a non-accountant employee when accessing the finance folder the user should get a Network permission request denied message.
 </p>
+
+This concludes the lab on Security Groups and Permissions.
