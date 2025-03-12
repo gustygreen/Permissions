@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3e954d94-4ad7-4a5d-bf7f-8daac0f3a899"  height="50%" width="50%"/>
+<img src="https://github.com/user-attachments/assets/3e954d94-4ad7-4a5d-bf7f-8daac0f3a899"  height="30%" width="30%"/>
 </p>
 
 <h1>Security Groups and Permissions</h1>
