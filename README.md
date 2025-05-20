@@ -56,7 +56,7 @@ Right click _GROUPS(1). Select New(2). Select Group(3). Add Group name: ACCOUNTA
 <img src="https://github.com/user-attachments/assets/306c80ae-2e2e-4882-ac9f-a267f4cdab44" heigth="50%" width="50%"/>
 </p>
 <p>
-Give ACCOUNTANTS access to read/write to the finance folder that is created on the c:\windows drive. RIght click finance-Properties-Sharing-Share-Type name "ACCOUNTANTS". Select Add.
+Give ACCOUNTANTS access to read/write to the finance folder that is created on the c:\windows drive. Right click finance-Properties-Sharing-Share-Type name "ACCOUNTANTS". Select Add.
 </p>
 
 <p>
